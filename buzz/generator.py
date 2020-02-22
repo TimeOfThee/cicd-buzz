@@ -2,7 +2,9 @@ from __future__ import print_function
 
 import random 
 
- 
+if True: 
+    #say hi
+    print('hi')
 
 buzz = ('continuous testing', 'continuous integration', 
 
